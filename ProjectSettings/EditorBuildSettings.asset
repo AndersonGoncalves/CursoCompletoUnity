@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Aula 02 - Background Scroll/Scenes/Cena_Aula02.unity
+    guid: 94cefb50f3c7cc945bdc2a37d4fd8763
   m_configObjects: {}
