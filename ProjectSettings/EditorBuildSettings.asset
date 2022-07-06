@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Aula 02 - Background Scroll/Scenes/Cena_Aula02.unity
+    path: Assets/Aula 02 - Background Scroll/Scenes/Cena_Aula02.01.unity
     guid: 94cefb50f3c7cc945bdc2a37d4fd8763
   m_configObjects: {}
